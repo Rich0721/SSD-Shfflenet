@@ -25,10 +25,10 @@ Step 1: Modify `config.py`
     MODEL_FOLDER : Stroage weigth folder
     FILE_NAME : Storage weigth weight
 ```
-Step 2: `pip install voc_annotation.py`
+Step 2: `python voc_annotation.py`
 You can obtain three text files(train.txt, val.txt and test.txt)  
   
-Step 3: `pip install train_300.py`  
+Step 3: `python train_300.py`  
 
 ## Test
 You can look `predict_image.ipynb`.  
